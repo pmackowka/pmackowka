@@ -1,7 +1,7 @@
 ## Hi, I'm Piotr 👋
 
-Senior Data Analyst / Analytics Architect with 10+ years in e-commerce (Empik, eObuwie/Modivo, Aviva, Wittchen, Avon). I build data platforms on GCP/BigQuery, design client- and server-side tracking, and lately combine that with agentic coding — Claude Code, n8n, LLM-driven automation.
+Senior Data Analyst & Analytics Architect | Server-side tracking, automation & AI apps
 
-**Stack:** BigQuery · dbt · Dataform · GA4 / GTM / Server-side · Python · Claude Code / n8n
+**I help recover data and make data-driven decisions — from tracking to AI.**
 
 📫 [pmdata.pl](https://pmdata.pl/?utm_source=github&utm_medium=organic) · [LinkedIn](https://www.linkedin.com/in/pmackowka/) 
